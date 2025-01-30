@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayisha</h1>
 <h3 align="center">🚀 "Build skills in Developer | Learning & Growing 📚"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=413-ayisha&label=Profile%20views&color=0e75b6&style=flat" alt="413-ayisha" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=413-ayisha" alt="413-ayisha" /></a> </p>
 
